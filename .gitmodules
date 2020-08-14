@@ -1,3 +1,6 @@
 [submodule "pong"]
 	path = pong
 	url = git@github.com:Novvan/pong.git
+[submodule "fifty-bird"]
+	path = fifty-bird
+	url = git@github.com:Novvan/fifty-bird.git
